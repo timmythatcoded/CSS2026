@@ -1,0 +1,118 @@
+#face{
+background: yellow;
+width: 500px;
+height: 500px;
+}
+#eyeL{
+background: white;
+width: 180px;
+height: 158px;
+position: absolute;
+top: 50px;
+left: 50px;
+}
+#eyeR{
+background: white;
+width: 180px;
+height: 158px;
+position: absolute;
+top: 50px;
+left:250px;
+}
+#pupL{
+background: black;
+width: 60px;
+height: 60px;
+position: absolute; 
+top: 60px;
+left: 70px;
+}
+#pupR{
+background: black;
+width: 60px;
+height: 60px;
+position: relative ;
+top: 50px;
+left:250px;
+}
+#mouth{
+background: black;
+width: 380px;
+height: 250px;
+position: absolute ;
+top: 250px;
+left: 50px;
+}
+#tooth1{
+background: white;
+width: 30px;
+height: 30px;
+position: absolute;
+top: 270px;
+left: 50px;
+}
+#tooth2{
+background: white;
+width: 30px;
+height: 30px;
+position: absolute;
+top: 270px;
+left: 90px;
+}
+#tooth3{
+background: white;
+width: 30px;
+height: 30px;
+position: absolute;
+top: 270px;
+left: 130px;
+}
+#tooth4{
+background: white;
+width: 30px;
+height: 30px;
+position: absolute;
+top: 270px;
+left: 170px;
+}
+#tooth5{
+background: white;
+width: 30px;
+height: 30px;
+position: absolute;
+top: 270px;
+left: 210px;
+}
+#tooth6{
+background: white;
+width: 30px;
+height: 30px;
+position: absolute;
+top: 270px;
+left: 250px;
+}
+#tooth7{
+background: white;
+width: 30px;
+height: 30px;
+position: absolute;
+top: 270px;
+left: 300px;
+}
+#tongue1{
+    background: red;
+    width: 250px;
+    height: 80px;
+    position: relative;
+    top: 300px;
+    left: 80px;
+}
+#tongue2{
+    background: black;
+    width: 20px;
+    height: 80px;
+    position: relative;
+    top: 200px;
+    left: 180px;
+
+}

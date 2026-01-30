@@ -1,0 +1,49 @@
+body{
+background-color: black;   
+}
+h1{
+text-align: center;
+color: aquamarine;
+}
+p{
+    color: blueviolet;
+text-align: center;
+}
+#king{
+border-radius: 500px;
+}
+.subhead{
+    
+   margin: auto;
+   color: purple;
+    text-align: center;   
+}
+#name{
+ display: inline-block;
+   border: 4px dotted; 
+    color: yellow;
+    padding:5px;
+    margin:auto;
+}
+#age{
+    color: yellow;
+ display: inline-block;
+   border: 4px dotted; 
+    padding:5px;
+    margin-top: 20px;
+}
+#sport{
+     color: yellow;
+ display: inline-block;
+   border: 4px dotted; 
+    padding:5px;
+    margin-top: 20px;
+}
+#arena{
+color: yellow;
+ display: inline-block;
+   border: 4px dotted; 
+    padding:5px;
+    margin-top: 20px;
+    
+}
